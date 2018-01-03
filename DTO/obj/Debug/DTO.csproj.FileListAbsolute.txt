@@ -1,0 +1,114 @@
+E:\cnpm\WindowsFormsApplication1\DTO\bin\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\DTO\bin\Debug\DTO.pdb
+E:\cnpm\WindowsFormsApplication1\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\WindowsFormsApplication1\DTO\obj\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\DTO\obj\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\obj\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DTO\obj\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\obj\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DTO\obj\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\2\DTO\obj\Debug\DTO.dll
+E:\cnpm\quanlikho\2\DTO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\2\DTO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\DTO\obj\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\DTO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\2\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\2\DTO\obj\Debug\DTO.dll
+C:\Users\hp\Desktop\2\DTO\obj\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4\DTO\bin\Debug\DTO.dll.config
+E:\cnpm\quanlikho\working\4\DTO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4\DTO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4\DTO\obj\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4\DTO\obj\Debug\DTO.pdb
+C:\Users\hp\Desktop\4\DTO\bin\Debug\DTO.dll.config
+C:\Users\hp\Desktop\4\DTO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4\DTO\obj\Debug\DTO.dll
+C:\Users\hp\Desktop\4\DTO\obj\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.0.1\DTO\bin\Debug\DTO.dll.config
+E:\cnpm\quanlikho\working\4.0.1\DTO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.0.1\DTO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.0.1\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.0.1\DTO\obj\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.0.1\DTO\obj\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.0.2\DTO\bin\Debug\DTO.dll.config
+C:\Users\hp\Desktop\4.0.2\DTO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.0.2\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.0.2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.0.2\DTO\obj\Debug\DTO.dll
+C:\Users\hp\Desktop\4.0.2\DTO\obj\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DTO\bin\Debug\DTO.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DTO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DTO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DTO\obj\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DTO\obj\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DTO\bin\Debug\DTO.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DTO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DTO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DTO\obj\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DTO\obj\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.1\DTO\bin\Debug\DTO.dll.config
+E:\cnpm\quanlikho\working\4.4.1\DTO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.1\DTO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.1\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.1\DTO\obj\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.1\DTO\obj\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DTO\bin\Debug\DTO.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DTO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DTO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DTO\obj\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DTO\obj\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3\DTO\bin\Debug\DTO.dll.config
+E:\cnpm\quanlikho\working\4.4.3\DTO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3\DTO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3\DTO\obj\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3\DTO\obj\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.3\DTO\bin\Debug\DTO.dll.config
+C:\Users\hp\Desktop\4.4.3.3\DTO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.3\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.3\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.3\DTO\obj\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.3\DTO\obj\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\DTO\bin\Debug\DTO.dll.config
+E:\cnpm\quanlikho\working\4.4.3.4\DTO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.4\DTO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.4\DTO\obj\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.4\DTO\obj\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\DTO\bin\Debug\DTO.dll.config
+E:\cnpm\quanlikho\working\4.4.3.6\DTO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.6\DTO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.6\DTO\obj\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.6\DTO\obj\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.8\DTO\bin\Debug\DTO.dll.config
+C:\Users\hp\Desktop\4.4.3.8\DTO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.8\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.8\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.8\DTO\obj\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.8\DTO\obj\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\DTO\bin\Debug\DTO.dll.config
+E:\cnpm\quanlikho\working\4.4.4.1\DTO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.1\DTO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\DTO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.1\DTO\obj\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.1\DTO\obj\Debug\DTO.pdb
+C:\Users\hp\Desktop\Baitap\Project CNPM\DTO\bin\Debug\DTO.dll.config
+C:\Users\hp\Desktop\Baitap\Project CNPM\DTO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\Baitap\Project CNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\Baitap\Project CNPM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Baitap\Project CNPM\DTO\obj\Debug\DTO.dll
+C:\Users\hp\Desktop\Baitap\Project CNPM\DTO\obj\Debug\DTO.pdb

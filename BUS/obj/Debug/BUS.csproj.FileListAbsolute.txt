@@ -1,0 +1,344 @@
+E:\cnpm\WindowsFormsApplication1\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\BUS.dll
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\BUS.pdb
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\DAO.dll
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\DAO.pdb
+E:\cnpm\WindowsFormsApplication1\BUS\bin\Debug\DTO.pdb
+E:\cnpm\WindowsFormsApplication1\BUS\obj\Debug\BUS.dll
+E:\cnpm\WindowsFormsApplication1\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\2\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\2\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\2\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\2\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\2\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\2\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\2\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\2\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\2\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\2\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\2\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\2\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\2\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\2\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\2\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\3\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\3\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\3\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\3\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\3\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\3\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\3\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\3\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\3\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\4\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\4\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\4\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.0.1\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.0.1\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.0.1\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.0.1\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.0.1\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.0.1\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.0.1\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.0.1\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.0.1\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.0.1\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.0.2\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\4.0.2\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.0.2\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.0.2\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.0.2\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.0.2\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.0.2\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.0.2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.0.2\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\4.0.2\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\bin\Debug\BUS.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.0.2\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\bin\Debug\BUS.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\bin\Debug\BUS.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên - Copy\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\nhân viên - Copy\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\bin\Debug\BUS.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.3\4.3\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.3\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.3\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.3\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.3\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.3\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.3\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.3\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.3\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.3\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.3\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\4.4\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\bin\Debug\BUS.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.1\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.4.1\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.1\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.1\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.1\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.1\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.1\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.1\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.1\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.1\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\bin\Debug\BUS.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.4.3\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.1\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\4.4.3.1\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.1\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.1\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.1\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.1\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.1\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.1\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.1\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.1\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.2\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.3\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\4.4.3.3\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.3\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.3\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.3\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.3\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.3\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.3\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.3\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.3\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.4\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\bin\Debug\BUS.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.3.5\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.6\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.8\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\4.4.3.8\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.8\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.3.8\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.8\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.8\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.8\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.8\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.8\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.3.8\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.3.9\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.0\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.1\BUS\obj\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\obj\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\bin\Debug\BUS.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\bin\Debug\BUS.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\bin\Debug\BUS.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.4.2\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.4.4\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\4.4.4.4\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.4.4\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\4.4.4.4\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.4.4\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.4.4\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.4.4\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.4.4\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.4.4\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\4.4.4.4\BUS\obj\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\bin\Debug\BUS.dll.config
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\bin\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\bin\Debug\BUS.pdb
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\obj\Debug\BUS.dll
+E:\cnpm\quanlikho\working\4.4.4.4(fixed)\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\bin\Debug\BUS.dll.config
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Desktop\Baitap\Project CNPM\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="quanlikhocuahangModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="quanlikhocuahangModelStoreContainer">
+          <EntitySet Name="LOAI" EntityType="quanlikhocuahangModel.Store.LOAI" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="NHACUNGCAP" EntityType="quanlikhocuahangModel.Store.NHACUNGCAP" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="NHANVIEN" EntityType="quanlikhocuahangModel.Store.NHANVIEN" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="PHIEUNHAPHANG" EntityType="quanlikhocuahangModel.Store.PHIEUNHAPHANG" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="SANPHAM" EntityType="quanlikhocuahangModel.Store.SANPHAM" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TONKHO" EntityType="quanlikhocuahangModel.Store.TONKHO" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="XUATKHO" EntityType="quanlikhocuahangModel.Store.XUATKHO" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK__PHIEUNHAP__MANHA__1A14E395" Association="quanlikhocuahangModel.Store.FK__PHIEUNHAP__MANHA__1A14E395">
+            <End Role="NHACUNGCAP" EntitySet="NHACUNGCAP" />
+            <End Role="PHIEUNHAPHANG" EntitySet="PHIEUNHAPHANG" />
+          </AssociationSet>
+          <AssociationSet Name="FK__PHIEUNHAPH__MANV__1B0907CE" Association="quanlikhocuahangModel.Store.FK__PHIEUNHAPH__MANV__1B0907CE">
+            <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+            <End Role="PHIEUNHAPHANG" EntitySet="PHIEUNHAPHANG" />
+          </AssociationSet>
+          <AssociationSet Name="FK__SANPHAM__LOAISP__173876EA" Association="quanlikhocuahangModel.Store.FK__SANPHAM__LOAISP__173876EA">
+            <End Role="LOAI" EntitySet="LOAI" />
+            <End Role="SANPHAM" EntitySet="SANPHAM" />
+          </AssociationSet>
+          <AssociationSet Name="FK__TONKHO__MANHAPHA__1FCDBCEB" Association="quanlikhocuahangModel.Store.FK__TONKHO__MANHAPHA__1FCDBCEB">
+            <End Role="PHIEUNHAPHANG" EntitySet="PHIEUNHAPHANG" />
+            <End Role="TONKHO" EntitySet="TONKHO" />
+          </AssociationSet>
+          <AssociationSet Name="FK__TONKHO__MASP__1ED998B2" Association="quanlikhocuahangModel.Store.FK__TONKHO__MASP__1ED998B2">
+            <End Role="SANPHAM" EntitySet="SANPHAM" />
+            <End Role="TONKHO" EntitySet="TONKHO" />
+          </AssociationSet>
+          <AssociationSet Name="FK__XUATKHO__DONGIAX__22AA2996" Association="quanlikhocuahangModel.Store.FK__XUATKHO__DONGIAX__22AA2996">
+            <End Role="TONKHO" EntitySet="TONKHO" />
+            <End Role="XUATKHO" EntitySet="XUATKHO" />
+          </AssociationSet>
+          <AssociationSet Name="FK__XUATKHO__MANV__34C8D9D1" Association="quanlikhocuahangModel.Store.FK__XUATKHO__MANV__34C8D9D1">
+            <End Role="NHANVIEN" EntitySet="NHANVIEN" />
+            <End Role="XUATKHO" EntitySet="XUATKHO" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="LOAI">
+          <Key>
+            <PropertyRef Name="MALOAI" />
+          </Key>
+          <Property Name="MALOAI" Type="nvarchar" Nullable="false" MaxLength="15" />
+          <Property Name="TENLOAI" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="NHACUNGCAP">
+          <Key>
+            <PropertyRef Name="MANHACUNGCAP" />
+          </Key>
+          <Property Name="MANHACUNGCAP" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="TENNHACUNGCAP" Type="nvarchar" MaxLength="100" />
+          <Property Name="DIACHI" Type="nvarchar" MaxLength="100" />
+          <Property Name="DIENTHOAI" Type="nvarchar" MaxLength="15" />
+        </EntityType>
+        <EntityType Name="NHANVIEN">
+          <Key>
+            <PropertyRef Name="MANV" />
+          </Key>
+          <Property Name="MANV" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="TENNV" Type="nvarchar" MaxLength="100" />
+          <Property Name="DIACHI" Type="nvarchar" MaxLength="100" />
+          <Property Name="DIENTHOAI" Type="nvarchar" MaxLength="15" />
+          <Property Name="NGAYSINH" Type="datetime" />
+          <Property Name="MATKHAU" Type="nvarchar" MaxLength="30" />
+          <Property Name="PHANQUYEN" Type="bit" />
+        </EntityType>
+        <EntityType Name="PHIEUNHAPHANG">
+          <Key>
+            <PropertyRef Name="MANHAPHANG" />
+          </Key>
+          <Property Name="MANHAPHANG" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="NGAYNHAPHANG" Type="datetime" />
+          <Property Name="MANHACUNGCAP" Type="nvarchar" MaxLength="50" />
+          <Property Name="MANV" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="SANPHAM">
+          <Key>
+            <PropertyRef Name="MASP" />
+          </Key>
+          <Property Name="MASP" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="HINHANH" Type="nvarchar" MaxLength="100" />
+          <Property Name="TENSP" Type="nvarchar" MaxLength="100" />
+          <Property Name="LOAISP" Type="nvarchar" MaxLength="15" />
+          <Property Name="HANSUDUNG" Type="nvarchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="TONKHO">
+          <Key>
+            <PropertyRef Name="STT" />
+          </Key>
+          <Property Name="STT" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="MANHAPHANG" Type="int" Nullable="false" />
+          <Property Name="MASP" Type="nvarchar" Nullable="false" MaxLength="50" />
+          <Property Name="NGAYHETHAN" Type="datetime" />
+          <Property Name="SOLUONGNHAP" Type="int" />
+          <Property Name="SOLUONGTON" Type="int" />
+          <Property Name="DONGIANHAP" Type="decimal" Precision="10" />
+        </EntityType>
+        <EntityType Name="XUATKHO">
+          <Key>
+            <PropertyRef Name="STT" />
+          </Key>
+          <Property Name="STT" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="MATONKHO" Type="int" Nullable="false" />
+          <Property Name="SOLUONGXUAT" Type="int" />
+          <Property Name="NGAYXUAT" Type="datetime" />
+          <Property Name="DONGIAXUAT" Type="decimal" Precision="10" />
+          <Property Name="MANV" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK__PHIEUNHAP__MANHA__1A14E395">
+          <End Role="NHACUNGCAP" Type="quanlikhocuahangModel.Store.NHACUNGCAP" Multiplicity="0..1" />
+          <End Role="PHIEUNHAPHANG" Type="quanlikhocuahangModel.Store.PHIEUNHAPHANG" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHACUNGCAP">
+              <PropertyRef Name="MANHACUNGCAP" />
+            </Principal>
+            <Dependent Role="PHIEUNHAPHANG">
+              <PropertyRef Name="MANHACUNGCAP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__PHIEUNHAPH__MANV__1B0907CE">
+          <End Role="NHANVIEN" Type="quanlikhocuahangModel.Store.NHANVIEN" Multiplicity="0..1" />
+          <End Role="PHIEUNHAPHANG" Type="quanlikhocuahangModel.Store.PHIEUNHAPHANG" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHANVIEN">
+              <PropertyRef Name="MANV" />
+            </Principal>
+            <Dependent Role="PHIEUNHAPHANG">
+              <PropertyRef Name="MANV" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__SANPHAM__LOAISP__173876EA">
+          <End Role="LOAI" Type="quanlikhocuahangModel.Store.LOAI" Multiplicity="0..1" />
+          <End Role="SANPHAM" Type="quanlikhocuahangModel.Store.SANPHAM" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="LOAI">
+              <PropertyRef Name="MALOAI" />
+            </Principal>
+            <Dependent Role="SANPHAM">
+              <PropertyRef Name="LOAISP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__TONKHO__MANHAPHA__1FCDBCEB">
+          <End Role="PHIEUNHAPHANG" Type="quanlikhocuahangModel.Store.PHIEUNHAPHANG" Multiplicity="1">
+            <OnDelete Action="Cascade" />
+          </End>
+          <End Role="TONKHO" Type="quanlikhocuahangModel.Store.TONKHO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="PHIEUNHAPHANG">
+              <PropertyRef Name="MANHAPHANG" />
+            </Principal>
+            <Dependent Role="TONKHO">
+              <PropertyRef Name="MANHAPHANG" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__TONKHO__MASP__1ED998B2">
+          <End Role="SANPHAM" Type="quanlikhocuahangModel.Store.SANPHAM" Multiplicity="1" />
+          <End Role="TONKHO" Type="quanlikhocuahangModel.Store.TONKHO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="SANPHAM">
+              <PropertyRef Name="MASP" />
+            </Principal>
+            <Dependent Role="TONKHO">
+              <PropertyRef Name="MASP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__XUATKHO__DONGIAX__22AA2996">
+          <End Role="TONKHO" Type="quanlikhocuahangModel.Store.TONKHO" Multiplicity="1" />
+          <End Role="XUATKHO" Type="quanlikhocuahangModel.Store.XUATKHO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TONKHO">
+              <PropertyRef Name="STT" />
+            </Principal>
+            <Dependent Role="XUATKHO">
+              <PropertyRef Name="MATONKHO" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__XUATKHO__MANV__34C8D9D1">
+          <End Role="NHANVIEN" Type="quanlikhocuahangModel.Store.NHANVIEN" Multiplicity="0..1" />
+          <End Role="XUATKHO" Type="quanlikhocuahangModel.Store.XUATKHO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHANVIEN">
+              <PropertyRef Name="MANV" />
+            </Principal>
+            <Dependent Role="XUATKHO">
+              <PropertyRef Name="MANV" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="quanlikhocuahangModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="quanlikhocuahangEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="LOAIs" EntityType="quanlikhocuahangModel.LOAI" />
+          <EntitySet Name="NHACUNGCAPs" EntityType="quanlikhocuahangModel.NHACUNGCAP" />
+          <EntitySet Name="NHANVIENs" EntityType="quanlikhocuahangModel.NHANVIEN" />
+          <EntitySet Name="PHIEUNHAPHANGs" EntityType="quanlikhocuahangModel.PHIEUNHAPHANG" />
+          <EntitySet Name="SANPHAMs" EntityType="quanlikhocuahangModel.SANPHAM" />
+          <EntitySet Name="TONKHOes" EntityType="quanlikhocuahangModel.TONKHO" />
+          <EntitySet Name="XUATKHOes" EntityType="quanlikhocuahangModel.XUATKHO" />
+          <AssociationSet Name="FK__SANPHAM__LOAISP__173876EA" Association="quanlikhocuahangModel.FK__SANPHAM__LOAISP__173876EA">
+            <End Role="LOAI" EntitySet="LOAIs" />
+            <End Role="SANPHAM" EntitySet="SANPHAMs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__PHIEUNHAP__MANHA__1A14E395" Association="quanlikhocuahangModel.FK__PHIEUNHAP__MANHA__1A14E395">
+            <End Role="NHACUNGCAP" EntitySet="NHACUNGCAPs" />
+            <End Role="PHIEUNHAPHANG" EntitySet="PHIEUNHAPHANGs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__PHIEUNHAPH__MANV__1B0907CE" Association="quanlikhocuahangModel.FK__PHIEUNHAPH__MANV__1B0907CE">
+            <End Role="NHANVIEN" EntitySet="NHANVIENs" />
+            <End Role="PHIEUNHAPHANG" EntitySet="PHIEUNHAPHANGs" />
+          </AssociationSet>
+          <AssociationSet Name="FK__TONKHO__MANHAPHA__1FCDBCEB" Association="quanlikhocuahangModel.FK__TONKHO__MANHAPHA__1FCDBCEB">
+            <End Role="PHIEUNHAPHANG" EntitySet="PHIEUNHAPHANGs" />
+            <End Role="TONKHO" EntitySet="TONKHOes" />
+          </AssociationSet>
+          <AssociationSet Name="FK__TONKHO__MASP__1ED998B2" Association="quanlikhocuahangModel.FK__TONKHO__MASP__1ED998B2">
+            <End Role="SANPHAM" EntitySet="SANPHAMs" />
+            <End Role="TONKHO" EntitySet="TONKHOes" />
+          </AssociationSet>
+          <AssociationSet Name="FK__XUATKHO__DONGIAX__22AA2996" Association="quanlikhocuahangModel.FK__XUATKHO__DONGIAX__22AA2996">
+            <End Role="TONKHO" EntitySet="TONKHOes" />
+            <End Role="XUATKHO" EntitySet="XUATKHOes" />
+          </AssociationSet>
+          <AssociationSet Name="FK__XUATKHO__MANV__34C8D9D1" Association="quanlikhocuahangModel.FK__XUATKHO__MANV__34C8D9D1">
+            <End Role="NHANVIEN" EntitySet="NHANVIENs" />
+            <End Role="XUATKHO" EntitySet="XUATKHOes" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="LOAI">
+          <Key>
+            <PropertyRef Name="MALOAI" />
+          </Key>
+          <Property Name="MALOAI" Type="String" Nullable="false" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="TENLOAI" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="SANPHAMs" Relationship="quanlikhocuahangModel.FK__SANPHAM__LOAISP__173876EA" FromRole="LOAI" ToRole="SANPHAM" />
+        </EntityType>
+        <EntityType Name="NHACUNGCAP">
+          <Key>
+            <PropertyRef Name="MANHACUNGCAP" />
+          </Key>
+          <Property Name="MANHACUNGCAP" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="TENNHACUNGCAP" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="DIACHI" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="DIENTHOAI" Type="String" MaxLength="15" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="PHIEUNHAPHANGs" Relationship="quanlikhocuahangModel.FK__PHIEUNHAP__MANHA__1A14E395" FromRole="NHACUNGCAP" ToRole="PHIEUNHAPHANG" />
+        </EntityType>
+        <EntityType Name="NHANVIEN">
+          <Key>
+            <PropertyRef Name="MANV" />
+          </Key>
+          <Property Name="MANV" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="TENNV" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="DIACHI" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="DIENTHOAI" Type="String" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="NGAYSINH" Type="DateTime" />
+          <Property Name="MATKHAU" Type="String" MaxLength="30" Unicode="true" FixedLength="false" />
+          <Property Name="PHANQUYEN" Type="Boolean" />
+          <NavigationProperty Name="NHANVIENs" Relationship="quanlikhocuahangModel.FK__PHIEUNHAPH__MANV__1B0907CE" FromRole="NHANVIEN" ToRole="PHIEUNHAPHANG" />
+          <NavigationProperty Name="XUATKHOes" Relationship="quanlikhocuahangModel.FK__XUATKHO__MANV__34C8D9D1" FromRole="NHANVIEN" ToRole="XUATKHO" />
+        </EntityType>
+        <EntityType Name="PHIEUNHAPHANG">
+          <Key>
+            <PropertyRef Name="MANHAPHANG" />
+          </Key>
+          <Property Name="MANHAPHANG" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NGAYNHAPHANG" Type="DateTime" />
+          <Property Name="MANHACUNGCAP" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="MANV" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="NHACUNGCAP" Relationship="quanlikhocuahangModel.FK__PHIEUNHAP__MANHA__1A14E395" FromRole="PHIEUNHAPHANG" ToRole="NHACUNGCAP" />
+          <NavigationProperty Name="NHANVIEN" Relationship="quanlikhocuahangModel.FK__PHIEUNHAPH__MANV__1B0907CE" FromRole="PHIEUNHAPHANG" ToRole="NHANVIEN" />
+          <NavigationProperty Name="TONKHOes" Relationship="quanlikhocuahangModel.FK__TONKHO__MANHAPHA__1FCDBCEB" FromRole="PHIEUNHAPHANG" ToRole="TONKHO" />
+        </EntityType>
+        <EntityType Name="SANPHAM">
+          <Key>
+            <PropertyRef Name="MASP" />
+          </Key>
+          <Property Name="MASP" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="HINHANH" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="TENSP" Type="String" MaxLength="100" Unicode="true" FixedLength="false" />
+          <Property Name="LOAISP" Type="String" MaxLength="15" Unicode="true" FixedLength="false" />
+          <Property Name="HANSUDUNG" Type="String" MaxLength="10" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="LOAI" Relationship="quanlikhocuahangModel.FK__SANPHAM__LOAISP__173876EA" FromRole="SANPHAM" ToRole="LOAI" />
+          <NavigationProperty Name="TONKHOes" Relationship="quanlikhocuahangModel.FK__TONKHO__MASP__1ED998B2" FromRole="SANPHAM" ToRole="TONKHO" />
+        </EntityType>
+        <EntityType Name="TONKHO">
+          <Key>
+            <PropertyRef Name="STT" />
+          </Key>
+          <Property Name="STT" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MANHAPHANG" Type="Int32" Nullable="false" />
+          <Property Name="MASP" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="NGAYHETHAN" Type="DateTime" />
+          <Property Name="SOLUONGNHAP" Type="Int32" />
+          <Property Name="SOLUONGTON" Type="Int32" />
+          <Property Name="DONGIANHAP" Type="Decimal" Precision="10" Scale="0" />
+          <NavigationProperty Name="PHIEUNHAPHANG" Relationship="quanlikhocuahangModel.FK__TONKHO__MANHAPHA__1FCDBCEB" FromRole="TONKHO" ToRole="PHIEUNHAPHANG" />
+          <NavigationProperty Name="SANPHAM" Relationship="quanlikhocuahangModel.FK__TONKHO__MASP__1ED998B2" FromRole="TONKHO" ToRole="SANPHAM" />
+          <NavigationProperty Name="XUATKHOes" Relationship="quanlikhocuahangModel.FK__XUATKHO__DONGIAX__22AA2996" FromRole="TONKHO" ToRole="XUATKHO" />
+        </EntityType>
+        <EntityType Name="XUATKHO">
+          <Key>
+            <PropertyRef Name="STT" />
+          </Key>
+          <Property Name="STT" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MATONKHO" Type="Int32" Nullable="false" />
+          <Property Name="SOLUONGXUAT" Type="Int32" />
+          <Property Name="NGAYXUAT" Type="DateTime" />
+          <Property Name="DONGIAXUAT" Type="Decimal" Precision="10" Scale="0" />
+          <NavigationProperty Name="TONKHO" Relationship="quanlikhocuahangModel.FK__XUATKHO__DONGIAX__22AA2996" FromRole="XUATKHO" ToRole="TONKHO" />
+          <Property Type="String" Name="MANV" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="NHANVIEN" Relationship="quanlikhocuahangModel.FK__XUATKHO__MANV__34C8D9D1" FromRole="XUATKHO" ToRole="NHANVIEN" />
+        </EntityType>
+        <Association Name="FK__SANPHAM__LOAISP__173876EA">
+          <End Role="LOAI" Type="quanlikhocuahangModel.LOAI" Multiplicity="0..1" />
+          <End Role="SANPHAM" Type="quanlikhocuahangModel.SANPHAM" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="LOAI">
+              <PropertyRef Name="MALOAI" />
+            </Principal>
+            <Dependent Role="SANPHAM">
+              <PropertyRef Name="LOAISP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__PHIEUNHAP__MANHA__1A14E395">
+          <End Role="NHACUNGCAP" Type="quanlikhocuahangModel.NHACUNGCAP" Multiplicity="0..1" />
+          <End Role="PHIEUNHAPHANG" Type="quanlikhocuahangModel.PHIEUNHAPHANG" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHACUNGCAP">
+              <PropertyRef Name="MANHACUNGCAP" />
+            </Principal>
+            <Dependent Role="PHIEUNHAPHANG">
+              <PropertyRef Name="MANHACUNGCAP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__PHIEUNHAPH__MANV__1B0907CE">
+          <End Role="NHANVIEN" Type="quanlikhocuahangModel.NHANVIEN" Multiplicity="0..1" />
+          <End Role="PHIEUNHAPHANG" Type="quanlikhocuahangModel.PHIEUNHAPHANG" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHANVIEN">
+              <PropertyRef Name="MANV" />
+            </Principal>
+            <Dependent Role="PHIEUNHAPHANG">
+              <PropertyRef Name="MANV" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__TONKHO__MANHAPHA__1FCDBCEB">
+          <End Role="PHIEUNHAPHANG" Type="quanlikhocuahangModel.PHIEUNHAPHANG" Multiplicity="1" />
+          <End Role="TONKHO" Type="quanlikhocuahangModel.TONKHO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="PHIEUNHAPHANG">
+              <PropertyRef Name="MANHAPHANG" />
+            </Principal>
+            <Dependent Role="TONKHO">
+              <PropertyRef Name="MANHAPHANG" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__TONKHO__MASP__1ED998B2">
+          <End Role="SANPHAM" Type="quanlikhocuahangModel.SANPHAM" Multiplicity="1" />
+          <End Role="TONKHO" Type="quanlikhocuahangModel.TONKHO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="SANPHAM">
+              <PropertyRef Name="MASP" />
+            </Principal>
+            <Dependent Role="TONKHO">
+              <PropertyRef Name="MASP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__XUATKHO__DONGIAX__22AA2996">
+          <End Role="TONKHO" Type="quanlikhocuahangModel.TONKHO" Multiplicity="1" />
+          <End Role="XUATKHO" Type="quanlikhocuahangModel.XUATKHO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TONKHO">
+              <PropertyRef Name="STT" />
+            </Principal>
+            <Dependent Role="XUATKHO">
+              <PropertyRef Name="MATONKHO" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__XUATKHO__MANV__34C8D9D1">
+          <End Type="quanlikhocuahangModel.NHANVIEN" Role="NHANVIEN" Multiplicity="0..1" />
+          <End Type="quanlikhocuahangModel.XUATKHO" Role="XUATKHO" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="NHANVIEN">
+              <PropertyRef Name="MANV" />
+            </Principal>
+            <Dependent Role="XUATKHO">
+              <PropertyRef Name="MANV" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="quanlikhocuahangModelStoreContainer" CdmEntityContainer="quanlikhocuahangEntities">
+          <EntitySetMapping Name="LOAIs"><EntityTypeMapping TypeName="quanlikhocuahangModel.LOAI"><MappingFragment StoreEntitySet="LOAI">
+            <ScalarProperty Name="MALOAI" ColumnName="MALOAI" />
+            <ScalarProperty Name="TENLOAI" ColumnName="TENLOAI" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="NHACUNGCAPs"><EntityTypeMapping TypeName="quanlikhocuahangModel.NHACUNGCAP"><MappingFragment StoreEntitySet="NHACUNGCAP">
+            <ScalarProperty Name="MANHACUNGCAP" ColumnName="MANHACUNGCAP" />
+            <ScalarProperty Name="TENNHACUNGCAP" ColumnName="TENNHACUNGCAP" />
+            <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+            <ScalarProperty Name="DIENTHOAI" ColumnName="DIENTHOAI" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="NHANVIENs"><EntityTypeMapping TypeName="quanlikhocuahangModel.NHANVIEN"><MappingFragment StoreEntitySet="NHANVIEN">
+            <ScalarProperty Name="MANV" ColumnName="MANV" />
+            <ScalarProperty Name="TENNV" ColumnName="TENNV" />
+            <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+            <ScalarProperty Name="DIENTHOAI" ColumnName="DIENTHOAI" />
+            <ScalarProperty Name="NGAYSINH" ColumnName="NGAYSINH" />
+            <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+            <ScalarProperty Name="PHANQUYEN" ColumnName="PHANQUYEN" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="PHIEUNHAPHANGs"><EntityTypeMapping TypeName="quanlikhocuahangModel.PHIEUNHAPHANG"><MappingFragment StoreEntitySet="PHIEUNHAPHANG">
+            <ScalarProperty Name="MANHAPHANG" ColumnName="MANHAPHANG" />
+            <ScalarProperty Name="NGAYNHAPHANG" ColumnName="NGAYNHAPHANG" />
+            <ScalarProperty Name="MANHACUNGCAP" ColumnName="MANHACUNGCAP" />
+            <ScalarProperty Name="MANV" ColumnName="MANV" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="SANPHAMs"><EntityTypeMapping TypeName="quanlikhocuahangModel.SANPHAM"><MappingFragment StoreEntitySet="SANPHAM">
+            <ScalarProperty Name="MASP" ColumnName="MASP" />
+            <ScalarProperty Name="HINHANH" ColumnName="HINHANH" />
+            <ScalarProperty Name="TENSP" ColumnName="TENSP" />
+            <ScalarProperty Name="LOAISP" ColumnName="LOAISP" />
+            <ScalarProperty Name="HANSUDUNG" ColumnName="HANSUDUNG" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="TONKHOes"><EntityTypeMapping TypeName="quanlikhocuahangModel.TONKHO"><MappingFragment StoreEntitySet="TONKHO">
+            <ScalarProperty Name="STT" ColumnName="STT" />
+            <ScalarProperty Name="MANHAPHANG" ColumnName="MANHAPHANG" />
+            <ScalarProperty Name="MASP" ColumnName="MASP" />
+            <ScalarProperty Name="NGAYHETHAN" ColumnName="NGAYHETHAN" />
+            <ScalarProperty Name="SOLUONGNHAP" ColumnName="SOLUONGNHAP" />
+            <ScalarProperty Name="SOLUONGTON" ColumnName="SOLUONGTON" />
+            <ScalarProperty Name="DONGIANHAP" ColumnName="DONGIANHAP" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="XUATKHOes"><EntityTypeMapping TypeName="quanlikhocuahangModel.XUATKHO"><MappingFragment StoreEntitySet="XUATKHO">
+            <ScalarProperty Name="MANV" ColumnName="MANV" />
+                <ScalarProperty Name="STT" ColumnName="STT" />
+            <ScalarProperty Name="MATONKHO" ColumnName="MATONKHO" />
+            <ScalarProperty Name="SOLUONGXUAT" ColumnName="SOLUONGXUAT" />
+            <ScalarProperty Name="NGAYXUAT" ColumnName="NGAYXUAT" />
+            <ScalarProperty Name="DONGIAXUAT" ColumnName="DONGIAXUAT" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="quanlikho" ZoomLevel="86">
+        <EntityTypeShape EntityType="quanlikhocuahangModel.LOAI" Width="1.5" PointX="4.5" PointY="5.5" Height="1.5956835937499996" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlikhocuahangModel.NHACUNGCAP" Width="1.875" PointX="0.5" PointY="1.5" Height="1.9802864583333339" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlikhocuahangModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="5.125" Height="2.5571907552083317" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlikhocuahangModel.PHIEUNHAPHANG" Width="1.5" PointX="3" PointY="1.25" Height="2.3648893229166656" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlikhocuahangModel.SANPHAM" Width="1.5" PointX="7.25" PointY="4.875" Height="2.3648893229166674" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlikhocuahangModel.TONKHO" Width="1.5" PointX="5.25" PointY="1" Height="2.9417936197916665" IsExpanded="true" />
+        <EntityTypeShape EntityType="quanlikhocuahangModel.XUATKHO" Width="1.5" PointX="7.5" PointY="1.375" Height="2.1725878906249996" IsExpanded="true" />
+        <AssociationConnector Association="quanlikhocuahangModel.FK__SANPHAM__LOAISP__173876EA" ManuallyRouted="false">
+          <ConnectorPoint PointX="6" PointY="6.297841796875" />
+          <ConnectorPoint PointX="7.25" PointY="6.297841796875" />
+        </AssociationConnector>
+        <AssociationConnector Association="quanlikhocuahangModel.FK__PHIEUNHAP__MANHA__1A14E395" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.375" PointY="2.4901432291666667" />
+          <ConnectorPoint PointX="3" PointY="2.4901432291666667" />
+        </AssociationConnector>
+        <AssociationConnector Association="quanlikhocuahangModel.FK__PHIEUNHAPH__MANV__1B0907CE" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="6.49974609375" />
+          <ConnectorPoint PointX="3.71875" PointY="6.49974609375" />
+          <ConnectorPoint PointX="3.71875" PointY="3.6148893229166656" />
+        </AssociationConnector>
+        <AssociationConnector Association="quanlikhocuahangModel.FK__TONKHO__MANHAPHA__1FCDBCEB" ManuallyRouted="false">
+          <ConnectorPoint PointX="4.5" PointY="2.4324446614583328" />
+          <ConnectorPoint PointX="5.25" PointY="2.4324446614583328" />
+        </AssociationConnector>
+        <AssociationConnector Association="quanlikhocuahangModel.FK__TONKHO__MASP__1ED998B2" ManuallyRouted="false">
+          <ConnectorPoint PointX="7.34375" PointY="4.875" />
+          <ConnectorPoint PointX="7.34375" PointY="3.7759407552083335" />
+          <ConnectorPoint PointX="6.75" PointY="3.7759407552083335" />
+        </AssociationConnector>
+        <AssociationConnector Association="quanlikhocuahangModel.FK__XUATKHO__DONGIAX__22AA2996" ManuallyRouted="false">
+          <ConnectorPoint PointX="6.75" PointY="2.5129703776041667" />
+          <ConnectorPoint PointX="7.5" PointY="2.5129703776041667" />
+        </AssociationConnector>
+        <AssociationConnector Association="quanlikhocuahangModel.FK__XUATKHO__MANV__34C8D9D1" >
+          <ConnectorPoint PointX="2.25" PointY="7.5884407552083335" />
+          <ConnectorPoint PointX="8.90625" PointY="7.5884407552083335" />
+          <ConnectorPoint PointX="8.90625" PointY="3.9321907552083331" />
+        </AssociationConnector>
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

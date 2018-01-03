@@ -1,0 +1,178 @@
+E:\cnpm\WindowsFormsApplication1\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\WindowsFormsApplication1\DAO\bin\Debug\DAO.dll
+E:\cnpm\WindowsFormsApplication1\DAO\bin\Debug\DAO.pdb
+E:\cnpm\WindowsFormsApplication1\DAO\bin\Debug\DTO.dll
+E:\cnpm\WindowsFormsApplication1\DAO\bin\Debug\DTO.pdb
+E:\cnpm\WindowsFormsApplication1\DAO\obj\Debug\DAO.dll
+E:\cnpm\WindowsFormsApplication1\DAO\obj\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\obj\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\WindowsFormsApplication1\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\obj\Debug\DAO.dll
+C:\Users\hp\Desktop\WindowsFormsApplication1\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\2\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\2\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\2\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\2\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\2\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\2\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\2\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\DAO\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\2\DAO\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\DAO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\2\DAO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\2\DAO\obj\Debug\DAO.dll
+C:\Users\hp\Desktop\2\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\cnpm\quanlikho\3\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\3\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\3\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\3\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\3\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\3\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\3\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4\DAO\bin\Debug\DAO.dll.config
+C:\Users\hp\Desktop\4\DAO\bin\Debug\DAO.dll.config
+C:\Users\hp\Desktop\4\DAO\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4\DAO\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4\DAO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4\DAO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4\DAO\obj\Debug\DAO.dll
+C:\Users\hp\Desktop\4\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.0.1\DAO\bin\Debug\DAO.dll.config
+E:\cnpm\quanlikho\working\4.0.1\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.0.1\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.0.1\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.0.1\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.0.1\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.0.1\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.0.1\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.0.2\DAO\bin\Debug\DAO.dll.config
+C:\Users\hp\Desktop\4.0.2\DAO\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.0.2\DAO\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.0.2\DAO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.0.2\DAO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.0.2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.0.2\DAO\obj\Debug\DAO.dll
+C:\Users\hp\Desktop\4.0.2\DAO\obj\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DAO\bin\Debug\DAO.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DAO\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DAO\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DAO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DAO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DAO\obj\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\nhân viên\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.3\DAO\bin\Debug\DAO.dll.config
+E:\cnpm\quanlikho\working\4.3\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.3\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.3\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.3\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.3\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.3\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.3\DAO\obj\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DAO\bin\Debug\DAO.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DAO\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DAO\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DAO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DAO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DAO\obj\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.1\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.1\DAO\bin\Debug\DAO.dll.config
+E:\cnpm\quanlikho\working\4.4.1\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.1\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.1\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.1\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.1\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.1\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.1\DAO\obj\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DAO\bin\Debug\DAO.dll.config
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DAO\bin\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DAO\bin\Debug\DAO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DAO\bin\Debug\DTO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DAO\bin\Debug\DTO.pdb
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DAO\obj\Debug\DAO.dll
+E:\Tai lieu hoc\Tin\CN phan mem\project\4.4.2\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3\DAO\bin\Debug\DAO.dll.config
+E:\cnpm\quanlikho\working\4.4.3\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.3\DAO\bin\Debug\DAO.dll.config
+C:\Users\hp\Desktop\4.4.3.3\DAO\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.3\DAO\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.3\DAO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.3\DAO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.3\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.3\DAO\obj\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.3\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\DAO\bin\Debug\DAO.dll.config
+E:\cnpm\quanlikho\working\4.4.3.4\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.4\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.4\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.4\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.4\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.4\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\DAO\bin\Debug\DAO.dll.config
+E:\cnpm\quanlikho\working\4.4.3.6\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.6\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.3.6\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.3.6\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.3.6\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.3.6\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.8\DAO\bin\Debug\DAO.dll.config
+C:\Users\hp\Desktop\4.4.3.8\DAO\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.8\DAO\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\4.4.3.8\DAO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\4.4.3.8\DAO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\4.4.3.8\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\4.4.3.8\DAO\obj\Debug\DAO.dll
+C:\Users\hp\Desktop\4.4.3.8\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.0\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.0\DAO\obj\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\DAO\bin\Debug\DAO.dll.config
+E:\cnpm\quanlikho\working\4.4.4.0\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.0\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.0\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.0\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\DAO\bin\Debug\DAO.dll.config
+E:\cnpm\quanlikho\working\4.4.4.1\DAO\bin\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.1\DAO\bin\Debug\DAO.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\DAO\bin\Debug\DTO.dll
+E:\cnpm\quanlikho\working\4.4.4.1\DAO\bin\Debug\DTO.pdb
+E:\cnpm\quanlikho\working\4.4.4.1\DAO\obj\Debug\ResolveAssemblyReference.cache
+E:\cnpm\quanlikho\working\4.4.4.1\DAO\obj\Debug\DAO.dll
+E:\cnpm\quanlikho\working\4.4.4.1\DAO\obj\Debug\DAO.pdb
+C:\Users\hp\Desktop\Baitap\Project CNPM\DAO\bin\Debug\DAO.dll.config
+C:\Users\hp\Desktop\Baitap\Project CNPM\DAO\bin\Debug\DAO.dll
+C:\Users\hp\Desktop\Baitap\Project CNPM\DAO\bin\Debug\DAO.pdb
+C:\Users\hp\Desktop\Baitap\Project CNPM\DAO\bin\Debug\DTO.dll
+C:\Users\hp\Desktop\Baitap\Project CNPM\DAO\bin\Debug\DTO.pdb
+C:\Users\hp\Desktop\Baitap\Project CNPM\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Baitap\Project CNPM\DAO\obj\Debug\DAO.dll
+C:\Users\hp\Desktop\Baitap\Project CNPM\DAO\obj\Debug\DAO.pdb
